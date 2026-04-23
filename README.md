@@ -36,6 +36,26 @@ This task involves simulating accidental file deletion from a storage device and
 
 ---
 
+## 📸 Screenshots
+
+**Files Before Deletion**
+![Files](screenshots/Files.png)
+
+**Permanent Deletion**
+![Deleting](screenshots/Deleting.png)
+
+**Empty Drive After Deletion**
+![Empty](screenshots/empty_folder.png)
+
+**Recuva Scan Results**
+![Recuva](screenshots/Recuva_scan.png)
+
+**Recovered Files**
+![Recovered](screenshots/Recoverd_Files.png)
+
+
+---
+
 ## ✅ Results
 - **Files Deleted:** 10
 - **Files Detected:** 10 (100%)
